@@ -1,0 +1,12 @@
+name: '…'
+description: '…'
+#inputs:
+#  <name>:
+#    description: '…'
+#    required: true
+runs:
+  using: "composite"
+  steps:
+    - run: |
+        echo "…"
+      shell: bash
